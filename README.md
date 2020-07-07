@@ -1,2 +1,2 @@
 # stepik_selenium
-## some change
+Это репозиторий для хранения некоторых домашних работ по курсу автоматизации тестирования на степик: https://stepik.org/course/575/syllabus
